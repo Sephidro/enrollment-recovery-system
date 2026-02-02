@@ -11,17 +11,25 @@ A modular CRM solution that recovered $500K+ in lost revenue by addressing a 40%
 ## The Solution
 Built a custom, modular system using Google Workspace tools that staff already knew:
 
-### [WordPress-Update-script](link)
+### 
+Google Sheets-based CRM system for charter schools. Automated welcome emails, follow-up sequences, and board governance publishing. .**
+
+
+
+### [WordPress-Update-script](https://github.com/Sephidro/WordPress-Update-script)
 Operational backbone handling:
 - Board governance document publishing
 - Administrative workflow automation
+- Governance document automation tool that converts Google Drive files to WordPress posts automatically.
+- Solves compliance "drudgery" for administrators who need to publish meeting minutes and agendas regularly.
 
-### Nesterly [RevOps Automation Toolkit](link)
+### Nesterly[revops-automation-toolkit](https://github.com/Sephidro/revops-automation-toolkit)
 Personalized email nurture engine:
 - Automated campaigns from staff Gmail accounts
 - Template library for welcome/reminder sequences
 - Smart scheduling and engagement tracking
 - Makes every email feel personal, not automated
+- **Key impact: Reduced application abandonment from 40% to 15%, recovering $500K+ in Year 1**
 
 ### Enrollment Dashboard (Private)
 Real-time tracking of:
