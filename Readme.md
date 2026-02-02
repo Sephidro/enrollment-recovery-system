@@ -11,19 +11,19 @@ A modular CRM solution that recovered $500K+ in lost revenue by addressing a 40%
 ## The Solution
 Built a custom, modular system using Google Workspace tools that staff already knew:
 
-### 🔧 [RevOps Automation Toolkit](link)
+### [WordPress-Update-script](link)
 Operational backbone handling:
 - Board governance document publishing
 - Administrative workflow automation
 
-### 💌 [RevOps Automation Toolkit] [Nesterly](link)
+### Nesterly [RevOps Automation Toolkit](link)
 Personalized email nurture engine:
 - Automated campaigns from staff Gmail accounts
 - Template library for welcome/reminder sequences
 - Smart scheduling and engagement tracking
 - Makes every email feel personal, not automated
 
-### 📊 Enrollment Dashboard (Private)
+### Enrollment Dashboard (Private)
 Real-time tracking of:
 - Application pipeline status
 - Drop-off point analysis  
@@ -44,8 +44,6 @@ Real-time tracking of:
 - TypeScript (Nesterly frontend)
 - Google Workspace (infrastructure)
 
-## Architecture
-[Add a simple diagram showing how the pieces connect]
 
 ## Why This Approach?
 - **Low barrier to entry**: Built on tools staff already used (Google Workspace)
