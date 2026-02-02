@@ -4,7 +4,7 @@ A modular CRM solution that recovered $500K+ in lost revenue by addressing a 40%
 
 ## The Challenge
 - 40% of families started applications but never completed them
-- $500K+ in potential tuition revenue lost annually  
+- Thousands of dollars in lost funding in potential tuition revenue lost annually  
 - Existing CRM tools too generic for charter school workflows
 - Staff spending 20+ hours/week on manual follow-ups
 
