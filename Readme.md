@@ -1,6 +1,6 @@
 # Enrollment Recovery System
 
-A modular CRM solution that recovered $500K+ in lost revenue by addressing a 40% application abandonment rate at a charter school network.
+A CRM solution that recovered $500K+ in lost revenue by addressing a 40% application abandonment rate at a charter school network.
 
 ## The Challenge
 - 40% of families started applications but never completed them
